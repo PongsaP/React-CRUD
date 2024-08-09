@@ -71,8 +71,8 @@ function App() {
 
 
   return (
-    <div className="App container">
-      <h1>Employee Infomation</h1>
+    <div className="App container pt-3 mb-3">
+      <h1 className='text-center'>Employee Infomation</h1>
       <div className="information mt-3">
         <form action="">
           <div className="form-floating mb-3">
